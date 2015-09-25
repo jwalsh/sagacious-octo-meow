@@ -1,0 +1,9 @@
+[submodule "polymer"]
+	path = polymer
+	url = https://github.com/Polymer/polymer.git
+[submodule "bootstrap"]
+	path = bootstrap
+	url = https://github.com/twbs/bootstrap.git
+[submodule "materialize"]
+	path = materialize
+	url = https://github.com/Dogfalo/materialize.git
